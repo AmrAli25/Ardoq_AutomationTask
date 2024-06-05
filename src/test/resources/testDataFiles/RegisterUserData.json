@@ -1,0 +1,20 @@
+{
+  "personalData": {
+    "firstName": "Amr",
+    "lastName": "Ali",
+    "email": "amr_ali_test",
+    "phone": "+201097914522",
+    "fax": "1121121"
+  },
+  "address": {
+    "company": "Testing",
+    "address1": "Cairo-Egypt",
+    "city": "Cairo",
+    "zip": "1212112"
+  },
+  "loginDetails": {
+    "username": "amrTest",
+    "password": "123456789aA@",
+    "confirmPassword": "123456789aA@"
+  }
+}
