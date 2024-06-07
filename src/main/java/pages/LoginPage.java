@@ -26,9 +26,9 @@ public class LoginPage {
 
     // Validations
     @Step("Verify correct navigation to LoginPage")
-    public LoginPage verifyCorrectNavigationToLoginPage() {
+    public LoginPage verifyCorrectNavigationToLoginPage(String message) {
         driver.verifyThat().element(accountLoginText).text()
-                .isEqualTo("ACCOUNT LOGIN").perform();
+                .isEqualTo(message).perform();
         return this;
     }
 

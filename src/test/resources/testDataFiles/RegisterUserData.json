@@ -8,13 +8,14 @@
   },
   "address": {
     "company": "Testing",
-    "address1": "Cairo-Egypt",
-    "city": "Cairo",
+    "address1": "Dumyat-Egypt",
+    "city": "New Dumyat",
+    "region": "Dumyat",
+    "country": "Egypt",
     "zip": "1212112"
   },
   "loginDetails": {
     "username": "amrTest",
-    "password": "123456789aA@",
-    "confirmPassword": "123456789aA@"
+    "password": "123456789aA@"
   }
 }
