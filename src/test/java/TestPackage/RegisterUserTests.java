@@ -20,6 +20,7 @@ import pages.RegisterPage;
 
 public class RegisterUserTests {
 
+    // Variables
     private final String timeStamp = String.valueOf(System.currentTimeMillis());
     private SHAFT.GUI.WebDriver driver;
     private SHAFT.TestData.JSON registrationTestData;
