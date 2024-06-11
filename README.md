@@ -18,5 +18,5 @@ messages that confirm the user is logged in.
 * Used Allure reports to provide a comprehensive report about the test cases and their status
 
 ## How to run the project 
-* Using Maven installed on your machine you just need to clone the repo on your machine and run the command on an opend terminal in the project directory "mvn test"
+* Using Maven installed on your machine you just need to clone the repo on your machine and run the command in an opend terminal in the project directory and run the following command "mvn test"
 * Using InteliJ IDE to run it through the Code Editor 
